@@ -1,6 +1,6 @@
 # React Photogram
 
-A Instagram like Photogram application made with ReactJS
+A Instagram like Photogram application made with ReactJS and Firebase
 
 ## Usage
 
